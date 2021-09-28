@@ -13,6 +13,5 @@ python ipl.py
 or
 ```
 python3 ipl.py
-```
-depending upon the python version. Make sure that you are running the command from the same virtual environment in which the required modules are installed.
+``
 
